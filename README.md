@@ -8,7 +8,7 @@
 
 ## 長山英三: ある労働闘争者
 
-- 序
+- [序](eizo/introduction.md)
 - [略歴](eizo/profile.md)
 
 ## 長山徹: 変人と呼ばれた男
